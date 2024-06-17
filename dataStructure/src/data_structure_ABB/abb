@@ -1,0 +1,9 @@
+-> A árvore de busca binária é uma estrutura de dados de árvore binária,
+onde todos os nós da subárvore esquerda possui um valor numérico inferior ou igual ao
+nó raiz e todos os nós da subárvore direita possuem um valor superior ao nó raiz.
+
+
+Principais operações:
+1 - Inserir item (insert)
+2 - Contém item? (contains)
+3 - Remover item (delete)
