@@ -1,6 +1,8 @@
+package data_structure_linked_list;
+
 public class LinkedList {
 
-    //Corpo da LinkedList, com inicio, fim e tamanho da lista
+    //Corpo da data_structure_linked_list.LinkedList, com inicio, fim e tamanho da lista
     private Node head;
     private Node tail;
     private int length;

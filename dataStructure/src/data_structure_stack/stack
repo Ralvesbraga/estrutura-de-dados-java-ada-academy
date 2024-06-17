@@ -1,0 +1,12 @@
+Pilha é uma estrutura de dados ordenada onde o último elemento inserido
+será o primeiro a ser retirado (LIFO - Last in, first out / FILO - first in last out)
+A extremidade por onde é feita a inserção e remoção de elementos é denominada top
+
+Principais operações:
+1 - Adicionar item (push)
+2 - Remover item (pop)
+3 - Ler topo (getTop)
+4 - Imprimir (print)
+
+Operação opcional:
+1 - Altura da pilha (getHeight)

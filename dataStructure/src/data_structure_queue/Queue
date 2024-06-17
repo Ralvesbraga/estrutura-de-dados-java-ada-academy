@@ -1,0 +1,16 @@
+    Fila é uma estrutura de dados ordenada onde o primeiro elemento
+inserido será o primeiro a ser retirado (FIFO - first in first out / LILO - last in last out).
+    A fila possui duas extremidades: o que é feita a inserção de elementos (fim da fila) e outra por
+onde é feita a remoção de elementos (inicio da fila).
+
+
+Principais operações:
+1 - Adicionar item (queue)
+2 - Remover item (dequeue)
+3 - Imprimir (print)
+
+Operações opcionais:
+1 - Primeiro da fila (getFirst)
+2 - Último da fila (getLast)
+3 - Tamanho da fila (getLength)
+
