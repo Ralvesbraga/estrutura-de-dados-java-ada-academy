@@ -1,3 +1,5 @@
+package data_structure_queue;
+
 import java.util.Random;
 
 public class FilaDeAtendimento {

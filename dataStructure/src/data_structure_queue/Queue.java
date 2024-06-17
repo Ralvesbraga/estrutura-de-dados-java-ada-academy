@@ -1,3 +1,5 @@
+package data_structure_queue;
+
 public class Queue {
 
     private Node first;
