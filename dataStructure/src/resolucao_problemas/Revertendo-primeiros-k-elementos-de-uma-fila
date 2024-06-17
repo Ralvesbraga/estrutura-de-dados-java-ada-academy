@@ -1,0 +1,14 @@
+Dado um inteiro k e uma fila de inteiros, a tarefa é inverter a ordem dos primeiros
+k elelementos da fila deixando os demais elementos na mesma ordem relativa.
+
+[1,2,3,4,5] -> K = 2 -> [2,1,3,4,5]
+
+
+Algoritmo:
+1 - Para os K primeiros elementos:
+    desinfileirar elemento x
+    reorderna (K-1) elementos
+    enfileirar elemento x
+2 - Para os N-K elementos:
+    desenfileirar
+    enfileirar

@@ -1,0 +1,9 @@
+Algoritmo:
+1 - Utilizar o algoritmo BFS para percorrer a árvore
+e uma lista auxiliar
+
+2- Para cada elemento e seu nível na árvore
+    se a lista possuir o indice == nivel;
+    substitua pelo maior valor
+
+    senão adicione na lista

@@ -1,0 +1,6 @@
+Solução: uso de pilhas
+
+1 - Empilhar caracteres de abertura
+2 - Ao identificar caracter de fechamento:
+    desempilhar e verificar se coincide com abertura;
+3 - Ao final a pilha deve estar vazia.
