@@ -1,0 +1,39 @@
+#Elementos por nível = (2)^N
+#Elementos = (2)^N +1-1
+#altura de uma árvore = N + 1
+
+Principais operações:
+
+1 - inicialização
+2 - Inserir
+3 - É folha? (isLeaf)
+4 - Travessia:
+    * Pré ordem
+    * Em ordem
+    * Pós ordem
+5 - Busca
+    * Busca em Largura (BFS)
+    * Busca em Profundidade (DFS)
+
+
+Pré Ordem:
+Lê a raiz primeiro -> RAIZ - ESQUERDA - DIREITA
+
+Em Ordem:
+Lê da forma normal -> ESQUERDA - RAIZ - DIREITA
+
+Pós Ordem:
+Lê a raiz por ultimo -> ESQUERDA - DIREITA - RAIZ
+
+BUSCA EM LARGURA:
+-> enquanto a fila possuir elemento:
+    processa item
+    se esquerda não vazia
+        inserir item
+    se direita não vazia
+        inserir item
+resultando na forma que foi inserido cada item
+
+BUSCA EM PROFUNDIDADDE:
+- Sempre mergulhando para a esquerda.
+    No caso, é a mesma que a pré ordem
