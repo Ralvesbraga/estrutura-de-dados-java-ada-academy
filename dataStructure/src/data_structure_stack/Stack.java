@@ -1,3 +1,5 @@
+package data_structure_stack;
+
 public class Stack {
 
     private Node top;
